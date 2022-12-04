@@ -57,8 +57,7 @@ function useScrollPosition() {
       window.removeEventListener("scroll", handleScroll);
     };
   }, []);
-
-
+}
 const LIMIT = 10;
 
 function updateCache({
