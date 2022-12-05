@@ -5,7 +5,7 @@
 * Tailwind CSS - CSS framework
 * NextAuth - Authentication
 * Prisma - Database ORM
-* Crate T3 App - Bootstrap a T3 app
+* Create T3 App - Bootstrap a T3 app
 * Day.js - Date formatting
 
 ## Features
