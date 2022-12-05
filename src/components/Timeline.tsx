@@ -58,6 +58,8 @@ function useScrollPosition() {
     };
   }, []);
 
+  return scrollPosition;
+}
 
 const LIMIT = 10;
 
