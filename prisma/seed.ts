@@ -33,7 +33,7 @@ async function run() {
         text: faker.lorem.sentence(),
         author: {
           connect: {
-            id: users[ii]?.id,
+            id: users[i]?.id,
           },
         },
       });
